@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD WASIM</h1>
 <h3 align="center">Software Test Engineer | QA Engineer | Frontend Developer | BE CSE Student</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Manual+Testing;API+Testing;SQL;Core+Java;Selenium+Automation;QA+Engineer" />
 </p>
@@ -8,6 +7,10 @@
 ---
 
 # 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 - 🎓 BE Computer Science Engineering (2022–2026)
 - 🏫 VMKV Engineering College
@@ -17,6 +20,15 @@
 - 🐞 Reported **150+ Defects**
 - 🤖 Google Gemini Student Ambassador
 - 📍 Bangalore, India
+
+</td>
+<td valign="top" width="40%">
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,7 +63,6 @@
 # 🚀 Featured Projects
 
 ## 🛒 E-Commerce Website Testing
-
 - Manual Testing
 - Functional Testing
 - Regression Testing
@@ -63,7 +74,6 @@
 ---
 
 ## 🔗 REST API Testing
-
 - Postman
 - GET
 - POST
@@ -75,7 +85,6 @@
 ---
 
 ## 💾 SQL Database Testing
-
 - CRUD Validation
 - JOIN
 - Subqueries
@@ -84,14 +93,12 @@
 ---
 
 ## 🌐 Full Stack Projects
-
 - AI Resume Builder
 - Student Environment Management System
 
 ---
 
 # 🏆 Achievements
-
 - Google Gemini Student Ambassador
 - Research Paper Presentation (NCMSD'24)
 - Hackathon Participant
@@ -100,7 +107,6 @@
 ---
 
 # 📜 Certifications
-
 - Manual Testing – QSpiders
 - SQL – QSpiders
 - API Testing – QSpiders
@@ -110,34 +116,20 @@
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=mdwasim02&show_icons=true&theme=tokyonight" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdwasim02&theme=tokyonight" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwasim02&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
 # 📫 Connect with Me
-
 📧 Email: **mdwasim8760@gmail.com**
-
-💼 LinkedIn:
-https://linkedin.com/in/md-wasim-872a75254
-
-💻 GitHub:
-https://github.com/mdwasim02
-
-🌐 Portfolio:
-https://mdwasim0oo2.vercel.app
-
-📷 Instagram:
-@silent_malik02
+💼 LinkedIn: https://linkedin.com/in/md-wasim-872a75254
+💻 GitHub: https://github.com/mdwasim02
+🌐 Portfolio: https://mdwasim0oo2.vercel.app
+📷 Instagram: @silent_malik02
 
 ---
 
