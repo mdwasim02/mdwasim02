@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<!-- <td valign="top" width="60%"> -->
+<td valign="top" width="60%">
 
 - 🎓 BE Computer Science Engineering (2022–2026)
 - 🏫 VMKV Engineering College
